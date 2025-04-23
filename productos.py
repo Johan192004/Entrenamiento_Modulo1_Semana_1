@@ -101,4 +101,4 @@ if porcen_descuento >= 1:
     costo_total = costo_sin_descuento - (costo_sin_descuento*porcen_descuento)/100
 
 
-print(f"Nombre del producto: {nombre} \nMonto total: {costo_total:.2f}$")
+print(f"\nNombre del producto: {nombre} \nMonto total: {costo_total:.2f}$")
